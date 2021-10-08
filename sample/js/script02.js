@@ -5,12 +5,12 @@ $(function(){
  let num1 = 20;
  let num2 = 32;
 
-   $("#botton01").on("click",function(){
+   $("#button01").on("click",function(){
      $("#content").text("こんにちは！");
    })
 
    $("#button02").on("click",function(){
-     $("#content").text("txt1");
+     $("#content").text(txt1);
    })
 
    $("#buton03").on("click",function(){
