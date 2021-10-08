@@ -3,10 +3,10 @@ $(function(){
  let txt1 = "にゃもにゃも";
  let txt2 = "は？";
  let num1 = 100000000000000000;
- let num2 = 100000000000000000000000000000000000000;
+ let num2 = 10000000000000;
 
    $("#button01").on("click",function(){
-     $("#content").text("こんにちは！");
+     $("#content").text("にゃもにゃも");
    })
 
    $("#button02").on("click",function(){
